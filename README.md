@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Copyright 
 
-⭐️ [Copyright 2023 Horizon UI ](https://www.engfidow.com/)
+⭐️ [Copyright 2024 Eng Fidow ](https://www.engfidow.com/)
 
