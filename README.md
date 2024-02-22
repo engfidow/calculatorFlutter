@@ -1,7 +1,7 @@
 # calculator
 
-A new Flutter project.
-
+Calculator Flutter project.
+![preview img](/pre.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ### Copyright 
 
 ⭐️ [Copyright 2023 Horizon UI ](https://www.engfidow.com/)
-![preview img](/pre.jpg)
+
